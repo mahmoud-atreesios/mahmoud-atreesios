@@ -11,18 +11,8 @@ Let’s build something amazing together! 🚀
 ### 📊 GitHub Stats
 ![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmoud-atreesios&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-atreesios&layout=compact&theme=radical)
-
 ### 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-atreesios&theme=radical)
-
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=mahmoud-atreesios)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 📈 Recent GitHub Activity
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=mahmoud-atreesios&theme=react)
-
 
 ### Fun Fact
 
