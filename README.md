@@ -8,6 +8,22 @@ Let’s build something amazing together! 🚀
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-atrees-557518234/)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudatreesios@gmail.com)
 
+### 📊 GitHub Stats
+![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmoud-atreesios&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+### 💻 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud-atreesios&layout=compact&theme=radical)
+
+### 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-atreesios&theme=radical)
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=mahmoud-atreesios)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 📈 Recent GitHub Activity
+![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=mahmoud-atreesios&theme=react)
+
+
 ### Fun Fact
 
 I'm a massive football enthusiast! ⚽ If coding were a match, I’d be the playmaker, crafting beautiful assists with my code. <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjlzZjdrbXA2YTdwd25yb2llOTQzNnBkdWo2Z3l1cDFkMDI4aTlmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IpKxfPy33hMRy/giphy.gif" width="50">
