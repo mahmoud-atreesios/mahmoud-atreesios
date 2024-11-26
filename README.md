@@ -8,17 +8,11 @@ Let’s build something amazing together! 🚀
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-atrees-557518234/)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudatreesios@gmail.com)
 
-### 📊 GitHub Stats
-![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmoud-atreesios&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
-### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-atreesios&theme=radical)
-
 ### Fun Fact
 
 I'm a massive football enthusiast! ⚽ If coding were a match, I’d be the playmaker, crafting beautiful assists with my code. <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjlzZjdrbXA2YTdwd25yb2llOTQzNnBkdWo2Z3l1cDFkMDI4aTlmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IpKxfPy33hMRy/giphy.gif" width="50">
 
-### Tech Arsenal
+### Tech
 
 ![Swift Badge](https://img.shields.io/badge/-Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI Badge](https://img.shields.io/badge/-SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
@@ -30,6 +24,13 @@ I'm a massive football enthusiast! ⚽ If coding were a match, I’d be the play
 ### More About Me 👇 
 
 As an iOS Engineer, I've been shaping mobile experiences and solving real-world problems with Swift and creativity 🌟. From crafting intuitive user interfaces to implementing robust back-end logic, I thrive on transforming ideas into seamless, user-friendly solutions 💻📱. My approach is rooted in clean code principles and efficient workflows, often leveraging MVVM architecture and RxSwift to keep things smooth and scalable 🚀. Whether it's integrating Firebase, building Core ML-powered apps, or designing dynamic MapKit experiences, I love tackling challenges head-on to deliver top-notch applications. When I'm not coding, you’ll find me diving into football matches or experimenting with new ways to elevate mobile app performance ⚽✨.
+
+
+### 📊 GitHub Stats
+![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmoud-atreesios&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+### 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-atreesios&theme=radical)
 
 <!---
 mahmoud-atreesios/mahmoud-atreesios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
