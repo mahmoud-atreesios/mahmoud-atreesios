@@ -10,7 +10,7 @@ Let’s build something amazing together! 🚀
 
 ### Fun Fact
 
-I'm a massive football enthusiast! ⚽ If coding were a match, I’d be the playmaker, crafting beautiful assists with my code. <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="50">
+I'm a massive football enthusiast! ⚽ If coding were a match, I’d be the playmaker, crafting beautiful assists with my code. <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="50">
 
 ### Tech Arsenal
 
