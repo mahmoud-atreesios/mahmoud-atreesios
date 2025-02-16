@@ -27,9 +27,6 @@ As an iOS Engineer, I've been shaping mobile experiences and solving real-world 
 ### 📊 GitHub Stats
 ![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmoud-atreesios&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-atreesios&theme=radical)
-
 <!---
 mahmoud-atreesios/mahmoud-atreesios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
